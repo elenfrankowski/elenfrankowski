@@ -1,6 +1,6 @@
 ## Olá! Sou Elen Frankowski
 
-- 💻 Estou estudando HTML, CSS e PHP.
+- 💻 Estou estudando HTML, CSS, PHP, JavaScript e MySQL.
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenfrankowski&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=vision-friendly-dark)
