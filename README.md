@@ -1,6 +1,6 @@
 ## Olá! Sou Elen Frankowski
 
-- 💻 Estou estudando HTML, CSS, PHP, JavaScript e MySQL.
+- 💻 Estou estudando HTML, CSS, PHP, JavaScript e PostgreSQL.
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenfrankowski&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=vision-friendly-dark)
@@ -12,7 +12,7 @@
   <img align="center" alt="Elen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elen-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Elen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Elen-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Elen-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 <picture align="center">
