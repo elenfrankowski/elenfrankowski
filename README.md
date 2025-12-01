@@ -2,8 +2,10 @@
 
 - 💻 Estou estudando HTML, CSS, PHP, JavaScript e PostgreSQL.
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenfrankowski&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=vision-friendly-dark)
+ ## 📊 Minhas Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
 
 ## Linguagens e Tecnologias:
 <div style="display: inline_block"><br>
