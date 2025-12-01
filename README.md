@@ -1,8 +1,8 @@
 ## 👋 Olá! Sou Elen Frankowski
 
-💻 Estudante de Desenvolvimento Web — atualmente aprendendo **HTML, CSS, PHP, JavaScript e PostgreSQL**  
-🎓 Participante do programa **Jovem Programador**, com foco em desenvolvimento de sistemas  
-🚀 Apaixonada por criar interfaces funcionais, sistemas web interativos e soluções completas do front ao back-end  
+💻 Desenvolvedora Web em formação contínua, com certificações em **Programador de Sistemas** e **Programador Web**.  
+🎓 Concluí o programa **Jovem Programador**, onde desenvolvi habilidades práticas em desenvolvimento de sistemas e criação de aplicações web completas.  
+🚀 Tenho experiência com HTML, CSS, PHP, JavaScript e PostgreSQL, criando interfaces funcionais, dinâmicas e orientadas à experiência do usuário.
 
 ---
 
@@ -17,12 +17,12 @@
 ## ⚙️ Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Elen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Elen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elen-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Elen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elen-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Elen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
