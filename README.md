@@ -6,11 +6,11 @@
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 Minhas estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
 
 ---
 
