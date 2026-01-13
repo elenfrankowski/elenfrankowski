@@ -8,7 +8,7 @@
 
 ## 📊 Minhas estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
 
