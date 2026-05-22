@@ -1,6 +1,7 @@
 ## 👋 Olá! Sou Elen Frankowski
 
 💻 Desenvolvedora Fullstack em constante evolução, com formação em Programador de Sistemas e Programador Web.
+
 🎓 Concluí o programa Jovem Programador, desenvolvendo aplicações web completas e fortalecendo minhas habilidades em lógica, banco de dados e desenvolvimento de sistemas.
 
 🚀 Tenho experiência com:
