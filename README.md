@@ -1,8 +1,15 @@
 ## 👋 Olá! Sou Elen Frankowski
 
-💻 Desenvolvedora Web em formação contínua, com certificações em **Programador de Sistemas** e **Programador Web**.  
-🎓 Concluí o programa **Jovem Programador**, onde desenvolvi habilidades práticas em desenvolvimento de sistemas e criação de aplicações web completas.  
-🚀 Tenho experiência com HTML, CSS, PHP, JavaScript e PostgreSQL, criando interfaces funcionais, dinâmicas e orientadas à experiência do usuário.
+💻 Desenvolvedora Fullstack em constante evolução, com formação em Programador de Sistemas e Programador Web.
+🎓 Concluí o programa Jovem Programador, desenvolvendo aplicações web completas e fortalecendo minhas habilidades em lógica, banco de dados e desenvolvimento de sistemas.
+
+🚀 Tenho experiência com:
+
+Frontend: HTML, CSS e JavaScript
+Backend: PHP, Node.js e TypeScript
+Banco de Dados: PostgreSQL
+
+✨ Atualmente estou aprofundando meus conhecimentos em desenvolvimento backend pelo SCTEC, focando em JavaScript, TypeScript e Node.js, além de boas práticas no desenvolvimento de APIs e aplicações modernas.
 
 ---
 
@@ -10,7 +17,7 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight&cache_seconds=1)
 ---
 
 ## ⚙️ Linguagens e Tecnologias
@@ -20,6 +27,10 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"><br>
       JavaScript
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"><br>
+      TypeScript
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"><br>
