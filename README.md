@@ -16,10 +16,9 @@ Banco de Dados: PostgreSQL
 
 ## 📊 Minhas estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
 
 ---
 
