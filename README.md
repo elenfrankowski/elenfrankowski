@@ -16,9 +16,11 @@ Banco de Dados: PostgreSQL
 
 ## 📊 Minhas estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenfrankowski&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
+
+
 ---
 
 ## ⚙️ Linguagens e Tecnologias
