@@ -21,9 +21,7 @@ Banco de Dados: PostgreSQL
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elenfrankowski&layout=compact&theme=tokyonight)
 
 ---
-
 ## ⚙️ Linguagens e Tecnologias
-
 <table align="center">
   <tr>
     <td align="center">
@@ -39,8 +37,16 @@ Banco de Dados: PostgreSQL
       Node.js
     </td>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40"><br>
+      NestJS
+    </td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"><br>
       Git
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"><br>
+      PostgreSQL
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br>
@@ -58,13 +64,8 @@ Banco de Dados: PostgreSQL
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"><br>
       PHP
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"><br>
-      PostgreSQL
-    </td>
   </tr>
 </table>
-
 ---
 
 ## 🐍 Contribuições
