@@ -66,6 +66,7 @@ Banco de Dados: PostgreSQL
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🐍 Contribuições
